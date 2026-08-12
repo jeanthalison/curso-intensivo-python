@@ -2,7 +2,7 @@
 
 nome = " Thalison "
 print(
-	"Espaço em branco dos dois lados\n" +'
+	"Espaço em branco dos dois lados\n" +
 	"\t|" + nome + "|\n" +
 	"Removendo espaço em branco do lado direito com rstrip()\n" +
 	"\t|" + nome.rstrip() + "|\n" +
