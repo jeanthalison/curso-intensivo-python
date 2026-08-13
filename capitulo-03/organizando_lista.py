@@ -12,9 +12,9 @@ carros.sort(reverse = True) # inverte a ordem
 print("Depois do sort(reverse = True): " + str(carros))
 
 carros = ['bmw', 'audi', 'toyota', 'subaru']
-print("\nEstá é a lista original: " + str(carros))
-print("Está é usando sorted: " + str(sorted(carros)))
-print("Está é a lista original novamente: " + str(carros))
+print("\nEsta é a lista original: " + str(carros))
+print("Esta é usando sorted: " + str(sorted(carros)))
+print("Esta é a lista original novamente: " + str(carros))
 
 #--------------------------------------------
 # Descobrindo tamanho da lista

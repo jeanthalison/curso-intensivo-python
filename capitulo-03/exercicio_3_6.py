@@ -41,6 +41,6 @@ print(
 	convidados[1].title() + message +
 	convidados[2].title() + message +
 	convidados[3].title() + message +
-	convidados[5].title() + message +
-	convidados[4].title() + message + "\n"
+	convidados[4].title() + message +
+	convidados[5].title() + message + "\n"
 )

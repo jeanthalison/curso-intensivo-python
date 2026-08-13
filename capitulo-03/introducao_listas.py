@@ -2,7 +2,7 @@
 # lista de bicicletas
 #--------------------------------------------
 
-bicicletas = ['trek', 'cannondable', 'redline', 'specialized']
+bicicletas = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicicletas)
 
 #--------------------------------------------
